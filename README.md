@@ -73,18 +73,6 @@ AI-powered Post Surgery Recovery Tracker
 
 
 
-## 📈 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKumar01-01&show_icons=true&theme=tokyonight&hide_border=true)
-
-(Add GitHub Streak Card)
-
-(Add Top Languages Card)
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: kirank75884@gmail.com
